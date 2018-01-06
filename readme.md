@@ -1,4 +1,4 @@
-## ras-demo
+## rsa-demo
 
 This project is the implementation given at:
 
